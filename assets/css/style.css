@@ -1,6 +1,6 @@
 * {
     padding: 0;
-    margnin: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 
@@ -52,7 +52,7 @@ Criando estilo da modal login e cadastro
     top: 0;
     left: 0;
     width: 100%;
-    height: vh;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
