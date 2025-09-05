@@ -95,3 +95,10 @@ Criando estilo da modal login e cadastro
     width: 100%;
     border-bottom: 0.5rem solid rgb(12, 153, 196)
 }
+
+.resultado_calcular {
+  padding: 1rem;
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+}
